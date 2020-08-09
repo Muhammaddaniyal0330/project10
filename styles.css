@@ -1,0 +1,27 @@
+body {
+background-color: rgb(56, 20, 6)
+}
+
+.handing1 {
+    text-align: center;
+    color: orangered;
+    font-family: 'Sora', sans-serif;
+}
+
+
+fieldset {
+    text-align: justify;
+    border-radius: 2em;
+}
+
+.fds {
+    color: tomato;
+}
+
+.btn{
+  width: 80px;
+ background-color: orangered;
+ text-align: center;
+ margin-left: 550px;
+}
+
